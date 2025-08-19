@@ -1,5 +1,5 @@
-## Hi there 👋
-<h2 align="left">Hi 👋! My name is Sadia Shoaib and I'm a passionate Software Engineer, from Pakistan.</h2>
+
+<h2 align="left">Hi 👋 My name is Sadia Shoaib and I'm a passionate Software Engineer, from Pakistan.</h2>
 
 ###
 
