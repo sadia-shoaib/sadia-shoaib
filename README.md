@@ -43,4 +43,3 @@
 <img src="https://raw.githubusercontent.com/sadia-shoaib/sadia-shoaib/output/snake.svg" alt="Snake animation" />
 
 ###
-
