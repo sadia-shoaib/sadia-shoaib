@@ -117,47 +117,6 @@ Currently working with **Ubuntu/Linux** for development, programming, system con
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sadia-shoaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadia-shoaib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sadia-shoaib&theme=tokyonight&hide_border=true&mode=weekly" width="70%" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadia-shoaib&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sadia-shoaib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" width="95%" />
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
