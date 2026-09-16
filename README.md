@@ -1,97 +1,57 @@
 <div align="center">
 
-# 👋 Hey, I'm <span style="color:#00FFFF">Sadia Shoaib</span>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00FFFF&height=200&section=header&text=Sadia%20Shoaib&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 
-### `Software Engineer` • `AI/ML Explorer` • `Problem Solver` • `Tech Enthusiast`
+<h3>Software Engineer • AI/ML Explorer • Systems Builder • Problem Solver</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning+Machine+Learning+%F0%9F%A7%A0;Building+Real-World+Tech+Projects+%F0%9F%9A%80;Designing+Processors+with+RISC-V+%E2%9A%99%EF%B8%8F;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=720&lines=Software+Engineering+Student+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning+Machine+Learning+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80;Designing+Processors+with+RISC-V+%E2%9A%99%EF%B8%8F;Writing+Hardware+with+Chisel+%F0%9F%94%A7;Learning+Scala+%F0%9F%8C%9F;Working+with+Ubuntu+%F0%9F%90%A7;Always+Learning.+Always+Building." />
 
 <br>
 
-<a href="https://github.com/sadia-shoaib">
-<img src="https://komarev.com/ghpvc/?username=sadia-shoaib&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=sadia-shoaib&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge" />
 
-<a href="https://github.com/sadia-shoaib?tab=followers">
-<img src="https://img.shields.io/github/followers/sadia-shoaib?label=Followers&style=for-the-badge&color=7B61FF&logo=github" alt="GitHub Followers"/>
-</a>
+<img src="https://img.shields.io/github/followers/sadia-shoaib?label=FOLLOWERS&style=for-the-badge&color=7B61FF&logo=github" />
 
 </div>
 
 ---
 
-## 🌌 About Me
+# 👩‍💻 About Me
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  👩‍💻 Software Engineering Student @ UIT University           │
-│  🇵🇰 Pakistan                                                │
-│                                                              │
-│  🤖 Exploring Artificial Intelligence & Machine Learning     │
-│  ⚙️ Building RISC-V / Computer Architecture projects        │
-│  🧠 Strengthening DSA & problem-solving skills               │
-│  🗄️ Working with databases & software systems                │
-│  🧪 Exploring Software Quality Assurance                     │
-│                                                              │
-│  "I don't just want to learn technology.                      │
-│   I want to understand it, build with it, and solve           │
-│   meaningful problems through it."                            │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+Hi! I'm **Sadia Shoaib**, a Software Engineering student at **UIT University, Pakistan**.
 
-I'm a Software Engineering student interested in the intersection of **software development, artificial intelligence, data, and computer systems**.
+I'm interested in the intersection of **software engineering, artificial intelligence, data, and computer architecture**.
 
-My current learning journey includes **Machine Learning, SQA, Database Systems, DSA, and MERL**, while continuing to build practical projects that connect theory with real-world applications.
+Currently, I'm expanding my skills through hands-on projects involving **Machine Learning, RISC-V, Chisel, Scala, databases, SQA, DSA, and Linux/Ubuntu**.
 
----
+### 🔭 Currently Working On
 
-# 🧠 Current Focus
+* 🤖 Machine Learning
+* 🧠 Artificial Intelligence
+* ⚙️ RISC-V & Computer Architecture
+* 🔧 Chisel Hardware Design
+* 🌟 Scala
+* 🐧 Ubuntu / Linux
+* 🧪 Software Quality Assurance
+* 🗄️ Database Systems
+* 🧩 Data Structures & Algorithms
+* 🌱 Exploring MERL
 
-<div align="center">
+### 💭 My Approach
 
-|             Area             | Current Focus                                        |
-| :--------------------------: | :--------------------------------------------------- |
-|        🤖 **AI / ML**        | Machine Learning • Data Analysis • Predictive Models |
-|  💻 **Software Engineering** | System Design • SQA • OOP                            |
-|          🧠 **DSA**          | Algorithms • Problem Solving • Optimization          |
-|       🗄️ **Databases**      | MySQL • SQLite • Database Design                     |
-| ⚙️ **Computer Architecture** | RISC-V • ALU • Control Unit • Processor Design       |
-|       📊 **Data & BI**       | Power BI • Visualization • EDA                       |
-|       🌱 **Exploring**       | MERL • New AI tools • Emerging technologies          |
+> **Learn → Build → Break → Debug → Improve → Repeat**
 
-</div>
+I enjoy taking concepts that initially seem complicated and turning them into practical systems that I can understand, build, test, and improve.
 
 ---
 
-# ⚡ Tech Stack
+# 🧰 Tech Stack
 
-### 💻 Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-
-</div>
-
-### 🗄️ Databases & Data
+## 💻 Programming Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-
-  
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
-
-</div>
-
-### 🛠️ Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,flask" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,scala" />
 
 </div>
 
@@ -99,211 +59,71 @@ My current learning journey includes **Machine Learning, SQA, Database Systems, 
 
 <div align="center">
 
-`Logisim` • `Power BI` • `Canva` • `Apache NetBeans` • `MS Office` • `Google Workspace`
+<img src="https://img.shields.io/badge/Chisel-Hardware%20Construction-00FFFF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/RISC--V-Architecture-7B61FF?style=for-the-badge&logo=riscv&logoColor=white" />
 
 </div>
 
 ---
 
-# 📊 Skill Progress
-
-> A snapshot of the areas I'm actively developing — not a claim of mastery.
+## 🌐 Web Technologies
 
 <div align="center">
 
-### Programming & Development
-
-| Skill               | Progress                   |
-| :------------------ | :------------------------- |
-| ☕ Java / OOP        | `████████████████░░░░` 80% |
-| 🐍 Python           | `███████████████░░░░░` 75% |
-| 🌐 Web Technologies | `████████████░░░░░░░░` 60% |
-| 🗄️ SQL / Databases | `██████████████░░░░░░` 70% |
-| 🧠 DSA              | `██████████████░░░░░░` 70% |
-
-### AI & Systems
-
-| Skill                      | Progress                   |
-| :------------------------- | :------------------------- |
-| 🤖 Artificial Intelligence | `██████████████░░░░░░` 70% |
-| 🧠 Machine Learning        | `███████████░░░░░░░░░` 55% |
-| ⚙️ RISC-V / Architecture   | `███████████████░░░░░` 75% |
-| 🧪 SQA                     | `███████████░░░░░░░░░` 55% |
-| 📊 Power BI                | `██████████░░░░░░░░░░` 50% |
+<img src="https://skillicons.dev/icons?i=html,css,javascript,flask" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🗄️ Databases & Data
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,jupyter" />
 
-<td width="50%" valign="top">
+<br><br>
 
-### ⚙️ RISC-UITU
-
-**12-bit RISC Processor**
-
-A custom processor designed and simulated in Logisim to understand processor architecture from the ground up.
-
-**Built with**
-
-`Logisim` `RISC-V Concepts` `Digital Logic`
-
-**Highlights**
-
-* Custom 12-bit ISA
-* Register File
-* ALU
-* Control Unit
-* Instruction Decoder
-* Processor Datapath
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Karachi Crime Analysis
-
-**AI / ML Prediction System**
-
-A data-driven system exploring crime patterns and prediction using a Karachi crime dataset.
-
-**Built with**
-
-`Python` `Jupyter` `Flask` `ML`
-
-**Highlights**
-
-* Data preprocessing
-* EDA
-* Crime hotspot analysis
-* Predictive modelling
-* Random Forest
-* Decision Tree
-* Linear Regression
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🗺️ Smart Route Delivery Planner
-
-**PathFinder AI**
-
-A Karachi-based delivery route simulation system using graph-search algorithms.
-
-**Built with**
-
-`Python` `Flask` `SQLite` `Leaflet`
-
-**Algorithms**
-
-* BFS
-* Uniform Cost Search
-* A*
-
-**Factors**
-
-`Traffic` • `Fuel` • `Road Quality`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💰 Smart Expense Manager
-
-**Desktop Management System**
-
-A Java-based application designed to manage and track personal expenses.
-
-**Built with**
-
-`Java` `Swing` `MySQL`
-
-**Focus**
-
-* OOP
-* GUI Development
-* Database Connectivity
-* CRUD Operations
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </div>
 
 ---
 
-# 🏆 Achievements
+## 🐧 Operating Systems
 
 <div align="center">
 
-### ⚙️ Built a Processor From Scratch
+<img src="https://skillicons.dev/icons?i=ubuntu,linux" />
 
-Designed a **12-bit RISC-UITU processor in Logisim**, working through instruction formats, register operations, ALU logic, control signals, and datapath design.
+</div>
 
-### 🤖 Built AI-Based Systems
+Currently working with **Ubuntu/Linux** for development, programming, system configuration, and technical coursework.
 
-Worked on practical AI projects involving **EDA, predictive modelling, graph algorithms, routing, and data-driven analysis**.
+---
 
-### 👩‍💼 General Secretary — CBS UIT
+## 🛠️ Development Tools
 
-Contributed to planning and coordinating university community initiatives while developing experience in **leadership, communication, teamwork, event planning, and resource management**.
+<div align="center">
 
-### 📊 Power BI Upskilling
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
-Completed **Basics of Power BI** and explored data visualization and business intelligence concepts.
+<br><br>
+
+`Apache NetBeans` • `Logisim` • `Canva` • `MS Office` • `Google Workspace`
 
 </div>
 
 ---
 
-# 📜 Certifications
+# 📊 GitHub Statistics
 
 <div align="center">
 
-🎨 **Canva Freelancing**
+<img src="https://github-readme-stats.vercel.app/api?username=sadia-shoaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 
-🤖 **Basics of Artificial Intelligence**
-
-🐍 **Basics of Python**
-
-🐍 **Introduction to Python**
-
-💬 **N8N ChatBot Lab**
-
-🌐 **No-Code Web Development**
-
-🧠 **Master ChatGPT**
-
-💬 **Introduction to ChatGPT**
-
-📱 **Social Media Marketing**
-
-📊 **Basics of Power BI**
-
-</div>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sadia-shoaib&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadia-shoaib&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadia-shoaib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 
 </div>
 
@@ -313,77 +133,282 @@ Completed **Basics of Power BI** and explored data visualization and business in
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sadia-shoaib&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sadia-shoaib&theme=tokyonight&hide_border=true&mode=weekly" width="70%" />
 
 </div>
 
 ---
 
-# 🏅 GitHub Trophies
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sadia-shoaib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadia-shoaib&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-# 🌐 Contribution Activity
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadia-shoaib&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=sadia-shoaib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" width="95%" />
 
 </div>
+
+---
+
+# 🚀 Featured Projects
+
+## ⚙️ RISC-UITU — 12-bit RISC Processor
+
+A custom **12-bit RISC processor** designed and simulated in Logisim.
+
+### 🔧 What I Worked On
+
+* Custom 12-bit instruction architecture
+* Register File
+* ALU
+* Control Unit
+* Instruction decoding
+* Datapath
+* Instruction execution
+* Digital logic design
+
+**Technologies**
+
+`Logisim` `RISC-V Concepts` `Digital Logic`
+
+---
+
+## 🔩 Chisel & RISC-V Hardware Design
+
+Currently exploring **Chisel**, a hardware construction language built using **Scala**, to understand how processor and digital hardware concepts can be described programmatically.
+
+### Working With
+
+* Chisel modules
+* Scala syntax
+* Hardware data types
+* Combinational logic
+* Multiplexers
+* ALU control
+* Processor control logic
+* RISC-V concepts
+* Hardware testing
+
+**Technologies**
+
+`Chisel` `Scala` `RISC-V` `Hardware Design`
+
+---
+
+## 🤖 Karachi Crime Analysis & Prediction System
+
+An AI/ML project focused on analyzing crime data and exploring predictive modelling.
+
+### 🔬 Areas Covered
+
+* Data preprocessing
+* Exploratory Data Analysis
+* Crime pattern analysis
+* Hotspot analysis
+* Machine Learning
+* Predictive modelling
+
+### 🧠 Models
+
+`Linear Regression` `Decision Tree` `Random Forest`
+
+**Technologies**
+
+`Python` `Jupyter` `Flask`
+
+---
+
+## 🗺️ Smart Route Delivery Planner
+
+A Karachi-based delivery route simulation system using graph-search algorithms.
+
+### 🧠 Algorithms
+
+`BFS` • `Uniform Cost Search` • `A*`
+
+### 📍 Routing Factors
+
+`Traffic` • `Fuel Cost` • `Road Quality`
+
+**Technologies**
+
+`Python` `Flask` `SQLite` `Leaflet`
+
+---
+
+## 💰 Smart Expense Manager
+
+A Java desktop application for managing and tracking personal expenses.
+
+**Technologies**
+
+`Java` `Java Swing` `MySQL`
+
+**Concepts**
+
+`OOP` `GUI` `CRUD` `Database Connectivity`
+
+---
+
+# 🏆 Achievements
+
+### ⚙️ Built a Processor From Scratch
+
+Designed and implemented a **12-bit RISC-UITU processor in Logisim**, strengthening my understanding of processor architecture, instruction execution, ALU design, control logic, and datapaths.
+
+### 🔧 Moving From Hardware Diagrams to Hardware Description
+
+Currently expanding my processor-design knowledge by working with **Chisel and Scala**, exploring how hardware logic can be expressed programmatically.
+
+### 🤖 AI & Machine Learning Projects
+
+Worked on practical projects involving **data analysis, machine learning models, graph algorithms, routing, and predictive systems**.
+
+### 🐧 Linux / Ubuntu
+
+Currently working with **Ubuntu/Linux** as part of my development and technical learning environment.
+
+### 👩‍💼 General Secretary — CBS UIT
+
+Served as **General Secretary of the Character Building Society at UIT University**, developing experience in:
+
+`Leadership` `Teamwork` `Communication` `Event Planning` `Resource Management`
+
+### 📊 Power BI
+
+Completed **Basics of Power BI** and explored data visualization and business intelligence concepts.
+
+---
+
+# 📜 Certifications
+
+| Certification                        | Area               |
+| ------------------------------------ | ------------------ |
+| 🎨 Canva Freelancing                 | Digital Creativity |
+| 🤖 Basics of Artificial Intelligence | AI                 |
+| 🐍 Basics of Python                  | Programming        |
+| 🐍 Introduction to Python            | Programming        |
+| 💬 N8N ChatBot Lab                   | Automation / AI    |
+| 🌐 No-Code Web Development           | Development        |
+| 🧠 Master ChatGPT                    | Generative AI      |
+| 💬 Introduction to ChatGPT           | Generative AI      |
+| 📱 Social Media Marketing            | Digital Marketing  |
+| 📊 Basics of Power BI                | Data / BI          |
+
+---
+
+# 🧠 Current Learning
+
+<div align="center">
+
+### 🤖 Artificial Intelligence
+
+`AI` → `Machine Learning` → `Data Analysis` → `Predictive Modelling`
+
+### ⚙️ Computer Architecture
+
+`RISC-V` → `Digital Logic` → `ALU` → `Control Unit` → `Processor Design`
+
+### 🔩 Hardware Construction
+
+`Scala` → `Chisel` → `Hardware Modules` → `Processor Components`
+
+### 🐧 Systems
+
+`Ubuntu` → `Linux Environment` → `Development` → `System Understanding`
+
+### 💻 Software Engineering
+
+`Java` → `OOP` → `DSA` → `DBMS` → `SQA`
+
+</div>
+
+---
+
+# 📊 Learning Progress
+
+> Visual representation of the areas I'm currently developing.
+
+```text
+Machine Learning          ███████████░░░░░░░░░
+Artificial Intelligence   ██████████████░░░░░░
+Java / OOP                ████████████████░░░░
+Python                    ███████████████░░░░░
+DSA                       ██████████████░░░░░░
+Databases                 ██████████████░░░░░░
+RISC-V                    ███████████████░░░░░
+Chisel                    ███████████░░░░░░░░░
+Scala                     ██████████░░░░░░░░░░
+SQA                       ███████████░░░░░░░░░
+Ubuntu / Linux            ████████████░░░░░░░░
+Power BI                  ██████████░░░░░░░░░░
+```
 
 ---
 
 # 🧩 My Developer Journey
 
 ```text
-                ┌─────────────────────┐
-                │   Software Eng.     │
-                └──────────┬──────────┘
-                           │
-          ┌────────────────┼────────────────┐
-          ↓                ↓                ↓
-       Software           AI/ML          Computer
-      Development           🤖           Architecture
-          │                │                │
-          ↓                ↓                ↓
-        DSA             Data Science       RISC-V
-          │                │                │
-          └────────────────┼────────────────┘
-                           ↓
-                 🚀 Real-World Projects
-                           ↓
-                    Continuous Learning
+                       SOFTWARE ENGINEERING
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+           AI / ML             DSA          Computer Systems
+             │                  │                  │
+             ▼                  ▼                  ▼
+       Data Analysis        Algorithms          RISC-V
+             │                  │                  │
+             │                  │                  ▼
+             │                  │               Chisel
+             │                  │                  │
+             │                  │                  ▼
+             │                  │                Scala
+             │                  │
+             └──────────────────┼──────────────────┘
+                                │
+                                ▼
+                       REAL-WORLD PROJECTS
+                                │
+                                ▼
+                       🚀 BUILD • TEST • SHIP
 ```
 
 ---
 
-# 🎯 2026 Learning Roadmap
+# 🎯 2026 Roadmap
 
 ```text
-                    2026
-                      │
-       ┌──────────────┼──────────────┐
-       ↓              ↓              ↓
-     AI/ML           SQA          Databases
-       │              │              │
-       └──────────────┼──────────────┘
-                      ↓
-                     DSA
-                      │
-                      ↓
-                 MERL / Web
-                      │
-                      ↓
-              Real-World Projects
-                      │
-                      ↓
-              🚀 Build • Learn • Ship
+                 ┌─────────────────────┐
+                 │      AI / ML        │
+                 └──────────┬──────────┘
+                            │
+       ┌────────────────────┼────────────────────┐
+       ▼                    ▼                    ▼
+     DSA                  SQA                 DBMS
+       │                    │                    │
+       └────────────────────┼────────────────────┘
+                            │
+                            ▼
+                    RISC-V / Chisel
+                            │
+                            ▼
+                       Scala / MERL
+                            │
+                            ▼
+                      Ubuntu / Linux
+                            │
+                            ▼
+                  🚀 REAL-WORLD PROJECTS
 ```
 
 ---
@@ -391,20 +416,22 @@ Completed **Basics of Power BI** and explored data visualization and business in
 # 💡 What I Like Building
 
 ```text
-🤖 AI Systems
-       +
-🧠 Algorithms
-       +
-💻 Software Engineering
-       +
-📊 Data
-       +
-⚙️ Computer Architecture
-       ↓
-🚀 Practical Technology
+       🤖 Artificial Intelligence
+                    +
+              🧠 Algorithms
+                    +
+           💻 Software Engineering
+                    +
+                📊 Data
+                    +
+          ⚙️ Computer Architecture
+                    +
+             🔩 Hardware Design
+                    ↓
+             🚀 Practical Systems
 ```
 
-I'm especially interested in projects where **technology solves a concrete problem**, rather than technology being used simply for the sake of using it.
+I'm particularly interested in projects where **software engineering, AI, data, and systems concepts come together to solve practical problems**.
 
 ---
 
@@ -412,16 +439,16 @@ I'm especially interested in projects where **technology solves a concrete probl
 
 <div align="center">
 
-<a href="mailto:sadiashoaib985@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sadia-shoaib-">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/sadia-shoaib-">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:sadiashoaib985@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/sadia-shoaib">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -430,8 +457,8 @@ I'm especially interested in projects where **technology solves a concrete probl
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### 🌟 *Learn. Build. Debug. Improve.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00FFFF&height=120&section=footer" />
 
 </div>
